@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export -o docs/",
-    "postbuild": "touch ./docs/.nojekyll && echo victor.jonnekaunisto.com > ./docs/CNAME",
+    "postbuild": "touch ./docs/.nojekyll && echo victorjialangli.com > ./docs/CNAME",
     "start": "next start"
   },
   "dependencies": {
