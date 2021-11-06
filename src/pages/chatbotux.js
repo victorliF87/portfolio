@@ -12,7 +12,7 @@ export default function AnimatedChatbot(){
                 <SectionTitle>Animated Chatbot UX Research</SectionTitle>
             </Section>
             <center>
-                <img src='/images/Chatbot 1.jpg' style={{width: '20%', height:'20%'}}/>
+                <img src='/images/Chatbot1.jpg' style={{width: '20%', height:'20%'}}/>
             </center>
             <Section>
                 <ProjectText>
@@ -34,7 +34,7 @@ export default function AnimatedChatbot(){
                 </ProjectText>
             </Section>
             <center>
-                <img src ='/images/Chatbot 2.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/Chatbot2.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
             <Section>
             <ProjectText>
@@ -48,7 +48,7 @@ export default function AnimatedChatbot(){
             </Section>
             <Section>
             <center>
-                <img src ='/images/chatbot statistics 1.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/ChatbotStatistics1.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
                 <ProjectText>
                     We choose an animal avatar due to research indicating sense 

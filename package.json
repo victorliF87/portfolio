@@ -6,9 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export -o docs/",
-    "start": "next start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "postbuild": "touch ./docs/.nojekyll && echo victor.jonnekaunisto.com > ./docs/CNAME",
+    "start": "next start"
   },
   "dependencies": {
     "next": "10.2.3",
@@ -19,9 +18,6 @@
     "react-router": "^5.2.1",
     "styled-components": "^5.3.0",
     "styled-normalize": "^8.0.7"
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
 
