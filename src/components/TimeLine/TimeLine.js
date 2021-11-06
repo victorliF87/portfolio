@@ -46,7 +46,7 @@ const Timeline = () => {
   return (
     <div>
       <center>
-        <img src='/images/profilepic.jpg' style={{width: '30%', height:'30%'}}/>
+        <img src='/images/ProfilePic.jpg' style={{width: '30%', height:'30%'}}/>
       </center>
       <Section id= "about">
         <SectionTitle>About Me</SectionTitle>

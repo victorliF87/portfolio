@@ -48,7 +48,7 @@ export default function AnimatedChatbot(){
             </Section>
             <Section>
             <center>
-                <img src ='/images/chatbotstatistics1.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/ChatbotStatistics1.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
                 <ProjectText>
                     We choose an animal avatar due to research indicating sense 
