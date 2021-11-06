@@ -12,7 +12,7 @@ export default function undergraduateUX(){
                 <SectionTitle> Undergraduate Research Website Project</SectionTitle>
             </Section>
             <center>
-                <img src='/images/UGRUX 1.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src='/images/UGRUX1.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
             <Section>
                 <ProjectText>
@@ -25,7 +25,7 @@ export default function undergraduateUX(){
                 </ProjectText>
             </Section>
             <center>
-                <img src ='/images/UGRUX 5.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/UGRUX5.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
             
             <Section>
@@ -35,7 +35,7 @@ export default function undergraduateUX(){
                 </ProjectText>
             </Section>
             <center>
-                <img src ='/images/UGRUX 3.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/UGRUX3.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
             
             <Section>
@@ -52,8 +52,8 @@ export default function undergraduateUX(){
                 </ProjectText>
             </Section>
             <center>
-                <img src ='/images/UGRUX 4.jpg' style={{width: '60%', height:'60%'}}/>
-                <img src ='/images/UGRUX 6.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/UGRUX4.jpg' style={{width: '60%', height:'60%'}}/>
+                <img src ='/images/UGRUX6.jpg' style={{width: '60%', height:'60%'}}/>
             </center>
             <Footer/>
         </div>

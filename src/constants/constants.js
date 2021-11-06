@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Undergraduate Research Website UX Research',
     description: "This project redsigned UC Santa Cruz's Undergraduate Research Website to allow more students to interact with research opporunities ",
-      image: '/images/UGRUX 1.jpg',
+      image: '/images/UGRUX1.jpg',
       tags: ['Figma','Adobe Illustrator'],
     source: 'https://www.figma.com/file/GkfwEx5BuuMshWYmeNgkr0/team-Colors',
     visit: '/ugrux',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Mental Health AI Chatbot Research',
     description: "This ACM TiiS project focused on testing the Psychiatric prompts on mental health Cahtbots as well as consumer chatbots like Alexa, Cortana & Siri.",
-    image: '/images/TessaChatbot 1.jpg',
+    image: '/images/TessaChatbot1.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: '/tessachatbot',
     visit: 'https://drive.google.com/file/d/1Ay8m6H74IPYyKQLmoteodLMxJg5q6GDg/view?usp=sharing',

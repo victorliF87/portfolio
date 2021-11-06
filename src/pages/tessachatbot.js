@@ -13,7 +13,7 @@ export default function tessachatbot(){
                 <SectionTitle>Mozilla Hubs Social VR Project</SectionTitle>
             </Section>
             <center>
-                <img src='/images/tessachatbot 1.jpg' style={{width: '35%', height:'35%'}}/>
+                <img src='/images/tessachatbot1.jpg' style={{width: '35%', height:'35%'}}/>
             </center>
             <Section>
                 <ProjectText>
@@ -26,7 +26,7 @@ export default function tessachatbot(){
                 </ProjectText>
             </Section>
             <center>
-                <img src ='/images/TessaChatbot 2.jpg' style={{width: '35%', height:'35%'}}/>
+                <img src ='/images/TessaChatbot2.jpg' style={{width: '35%', height:'35%'}}/>
             </center>
             <Section>
             <ProjectText>
